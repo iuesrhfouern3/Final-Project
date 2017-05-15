@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+h1{
+  text-align: center;
+}
+body{
+    color: black;
+    background-image: url("http://www.myfreetextures.com/wp-content/uploads/2011/06/brushedmetal103.jpg");
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+svg{
+  align: center;
+  display:block;
+  margin: auto;
+  background-size: auto 100%;
+}
